@@ -17,7 +17,7 @@
 | [DHT11](https://www.aliexpress.com/item/1005007728845619.html?spm=a2g0o.productlist.0.0.78fb43a1xzchWt&mp=1&pdp_npi=6%40dis%21USD%21USD+3.55%21USD+2.32%21%21USD+2.32%21%21%21%400b8848e317917066048893259e0dfb%2112000042055448713%21ct%21LV%213499144690%21%211%210%21) | Starbie | 1 | $2.32 | $2.32 | [Estardyn Choice Store](https://www.aliexpress.com/item/1005007728845619.html?spm=a2g0o.productlist.0.0.78fb43a1xzchWt&mp=1&pdp_npi=6%40dis%21USD%21USD+3.55%21USD+2.32%21%21USD+2.32%21%21%21%400b8848e317917066048893259e0dfb%2112000042055448713%21ct%21LV%213499144690%21%211%210%21) |
 | [Pinheader 1x08 2.54mm](https://www.aliexpress.com/item/1005004242619481.html) | Starbie | 1 | $2.20 | $2.20 | [Aideepen Office Store](https://www.aliexpress.com/item/1005004242619481.html) |
 | **Parts subtotal** | — | — | — | **$19.79** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.79** | — |
+| **Tax & shipping** | — | — | — | **$11.96** | — |
+| **Total** | — | — | — | **$31.75** | — |
 
-$10.21 left of the tier's funding.
+**$1.75 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
